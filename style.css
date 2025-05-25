@@ -55,6 +55,7 @@
   transform-style: preserve-3d;
   outline: none;
   border: 0;
+  height: clamp(60px, 10vh, 150px);
   color: #fff;
   font-size: 16px;
   border-radius: 5px;
