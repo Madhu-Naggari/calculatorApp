@@ -10,8 +10,6 @@ A modern, fully functional calculator built using **HTML**, **CSS** (with elegan
 
 **🔗 Live Demo:** [View Project](https://madhu-naggari.github.io/calculatorApp/)
 
-![Glassmorphism Calculator Screenshot](./screenshots/Desktop.png)
-
 ---
 
 ## 🧠 Features
@@ -28,12 +26,14 @@ A modern, fully functional calculator built using **HTML**, **CSS** (with elegan
 ## 📱 Responsive Preview
 
 ### 🖥️ Desktop View  
-<img src="./screenshots/Desktop.png" alt="Desktop View" width="80%">
+<img width="1467" alt="Desktop" src="https://github.com/user-attachments/assets/637aa3b3-3f4b-4e32-87e3-fc99b9c37985" />
+
 
 ---
 
 ### 📱 Mobile View  
-<img src="./screenshots/mobile.png" alt="Mobile View" width="35%">
+<img width="320" alt="mobile" src="https://github.com/user-attachments/assets/781056a9-9293-42b8-a471-668897115f03" />
+
 
 ---
 
