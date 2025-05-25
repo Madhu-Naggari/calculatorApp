@@ -21,7 +21,7 @@ A modern, fully functional calculator built using **HTML**, **CSS** (with elegan
 - ⚡ Just **25 lines of JavaScript** (clean and efficient)  
 - 📱 Responsive design for desktop and mobile  
 - 🧼 Minimal and accessible UI  
-- 🧩 Built with only HTML, CSS, and vanilla JavaScript  
+- 🧩 Built with only HTML, CSS, and JavaScript  
 
 ---
 
